@@ -4,7 +4,6 @@ import sys
 import streamlit as st
 import pandas as pd
 import json
-from dotenv import load_dotenv
 import warnings
 from src.File_Uploading_to_Cloud.Upload import get_gcs_client
 from src.File_Uploading_to_Cloud.Upload import upload_file
