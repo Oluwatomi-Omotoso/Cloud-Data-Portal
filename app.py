@@ -40,7 +40,7 @@ st.set_page_config(
 
 
 # --------------------------- PAGE SETUP ---------------------------
-st.title("☁️ Cloud Interaction Control Center")
+st.title("☁️ Cloud-Data-Portal")
 
 
 # TABS
