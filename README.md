@@ -28,9 +28,10 @@ A Streamlit app for uploading, previewing, and storing datasets between Google C
 ## Installation & SetUp
 
 ### Prerequisites
-
-- Python 3.8+
-- A free or paid account on [Supabase](https://supabase.com/) with a project intialised.
+1. Python 3.8+
+2. A free or paid account on [Supabase](https://supabase.com/) with a project intialised.
+3. A Google Cloud Platform (GCP) Account:** * An active GCS bucket.
+A Service Account Key file (`.json`) with **Storage Object Creator/Admin** permissions.
 
 ### Step-by-step Guide
 
