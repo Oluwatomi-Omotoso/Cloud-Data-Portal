@@ -7,7 +7,7 @@ from google.cloud import storage
 from pathlib import Path
 from google.cloud.exceptions import NotFound
 
-load_dotenv()
+
 
 # Environment variables
 BUCKET_NAME = st.secrets["BUCKET_NAME"]
